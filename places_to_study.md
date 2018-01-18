@@ -30,40 +30,40 @@ Not a great library for studying. It's too small and too much action in/out. The
 
 ## Cafès ##
 
-##Capitol Hill Locations##
+## Capitol Hill Locations ##
 
-###Joe Bar###
+### Joe Bar ###
 On Broadway & Roy
 They have crepes and amazing coffee (and beer), and its the cutest place ever. cons: super tiny, but tables usually open up pretty quickly  [Joe Bar](https://www.yelp.com/biz/joe-bar-seattle)
 
-###Espresso Vivace###
+### Espresso Vivace ###
 On Broadway
 "Quiet room" if that's what you're looking for.
 
-###Victrola###
+### Victrola ###
 On 15th
 Has a reservable side room, perhaps good for group study sessions
 
-###Solstice###
+### Solstice ###
 Loud, usually full but you can post here for 4+hours and no one blinks an eye
 
-###Honor Coffee###
+### Honor Coffee ###
 Small, undiscovered, quiet and big windows
 
-###Cafe Vita###
+### Cafe Vita ###
 Popular spot for people watching, good coffee
 
-###Cafe Vivace###
+### Cafe Vivace ###
 A famous spot in Seattle, great coffee, a closed backroom that is unofficially a "quiet space", big windows and lots of people watching
 
-###Starbucks###
+### Starbucks ###
 At $2.50 has the cheapest coffee in town, everywhere else is around $3
 
-###JuiceBox###
+### JuiceBox ###
 Small, quiet, hard to find outlets, but a great ambiance
 
-##Near UW##
-###Henry Art Gallery###
+## Near UW ##
+### Henry Art Gallery ###
 Closes early, interesting crowd, and you can sneak out and check the galleries (just say you are going to the coffee shop when you walk in the Henry Art museum)
 
 ## Co-working Spaces ##
