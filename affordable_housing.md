@@ -25,7 +25,7 @@ I found the MFTE compliance manual online and found it really reassuring to unde
 There are a number of different forms required for Income Verification and you can find links to most of them on either in the Compliance Manual or on the city's MFTE Resource Page but I've collected links to the most important ones below.
 
 
-##R equired Forms
+## Required Forms
 Seattle Housing is a frantic and competitive field where leasing agents can often be overwhelmed and slow to respond. The building should give you paperwork, walk you through the process and answer your questions but sometimes that just doesn't happen. Preparing your own MFTE application will save you time and help you qualify more quickly. 
 
 * Starred forms are always required, the rest are situational
