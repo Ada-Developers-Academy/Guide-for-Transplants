@@ -69,6 +69,12 @@ Closes early, interesting crowd, and you can sneak out and check the galleries (
 ## Co-working Spaces ##
 Co-working spaces often have great wifi, comfortable spaces to work in, & provide a lot of support. The downside is that they often cost something more than a library or a cafe.
 
+### The Riveter ###
+
+Maybe not the most cost effective, but they do have a lot of plans, and it seems like it would be a really supportive environment. "The Riveter is a female-forward platform for entrepreneurs, freelancers and everyone in between. Our workspaces, highly curated business forward programming, and amazing members offer daily opportunities to meet friends and colleagues who know what you need to grow your business, launch your podcast or host your next dinner party."
+
+[The Riveter](https://theriveter.co//)
+
 ### The Office (Upstairs at Ada’s Technical Books, Capitol Hill) ###
 
 This looks like a cool place. I haven't been, but it does cost $20 per day.
